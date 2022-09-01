@@ -1,2 +1,2 @@
 #!/bin/bash>
-ls home>> chmod u+x
+ls 0x00-shell_basics>> chmod u+x 
