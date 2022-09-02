@@ -1,3 +1,2 @@
-vi 1-who_am_i
 #!/bin/bash
 whoami
