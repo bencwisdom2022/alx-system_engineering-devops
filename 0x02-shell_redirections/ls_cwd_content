@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 chukwuka chukwuka 4096 Sep  5 14:23 .
+drwxrwxr-x 6 chukwuka chukwuka 4096 Sep  5 12:04 ..
+-rwxrw-r-- 1 chukwuka chukwuka   34 Sep  5 12:49 0-hello_world
+-rw-rw-r-- 1 chukwuka chukwuka   13 Sep  5 11:33 0-hello_world.txt
+-rwxrw-r-- 1 chukwuka chukwuka   26 Sep  5 12:48 1-confused_smiley
+-rw-rw-r-- 1 chukwuka chukwuka    6 Sep  5 11:41 1-confused_smiley.txt
+-rwxrw-r-- 1 chukwuka chukwuka   28 Sep  5 12:46 2-hellofile
+-rw-rw-r-- 1 chukwuka chukwuka   12 Sep  5 12:09 2-hellofile.txt
+-rwxrwxrwx 1 chukwuka chukwuka   39 Sep  5 12:37 3-twofiles
+-rwxrw-r-- 1 chukwuka chukwuka   35 Sep  5 13:01 4-lastlines
+-rwxrw-r-- 1 chukwuka chukwuka   35 Sep  5 13:04 5-firstlines
+-rwxrw-r-- 1 chukwuka chukwuka   47 Sep  5 13:41 6-third_line
+-rwxrw-r-- 1 chukwuka chukwuka   61 Sep  5 13:51 7-file
+-rw-rw-r-- 1 chukwuka chukwuka  117 Sep  5 13:43 iacta
+-rwxrw-r-- 1 chukwuka chukwuka    0 Sep  5 14:24 ls_cwd_content
