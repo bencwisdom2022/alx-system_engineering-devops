@@ -1,2 +1,2 @@
 #!/bin/bash
-binary=$(([##2]decimal))
+$((2#$binary))
